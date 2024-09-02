@@ -10,15 +10,6 @@ The Autotyper Script is a tool designed to automate text input for various appli
 - **Text Input:** Specify the text you want to be typed automatically.
 - **Ease of Use:** Simple and intuitive interface for quick setup.
 
-## Installation
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/AreyMadhav/AutotyperScript.git
-
-2. **Build the application**
-   ```bash
-   pyinstaller --onefile autotyper.py
 
 ## Usage
 
